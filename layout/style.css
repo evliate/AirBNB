@@ -1,0 +1,48 @@
+.navbar-minimalist {
+ height: 70px;
+ background: white;
+ box-shadow: 0px -2px 10px rgba(0,0,0,0.3);
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ margin: 10px;
+}
+.navbar-minimalist img {
+ height: 50px;
+}
+.card {
+ background-size: cover;
+ background-position: center;
+ height: 150px;
+ border-radius: 1px;
+ margin: 4px;
+ box-shadow: 0 0 10px rgba(0,0,0,0.2);
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ font-size: 25px;
+ color: white;
+ font-weight: bolder;
+ text-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
+
+.map {
+  position: sticky;
+  display: flex;
+  width: 1000px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+
+.desti-map {
+  display: flex;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  color: grey;
+  font-size: 10px;
+
+}
